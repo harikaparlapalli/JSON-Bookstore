@@ -1,0 +1,30 @@
+{
+  "bookstore": {
+    "books": [
+      {
+        "id": 1,
+        "title": "Software Engineering",
+        "author": "Ian Sommerville",
+        "price": 550,
+        "category": "Education",
+        "available": true
+      },
+      {
+        "id": 2,
+        "title": "Database Systems",
+        "author": "Korth",
+        "price": 600,
+        "category": "Education",
+        "available": false
+      },
+      {
+        "id": 3,
+        "title": "Operating System Concepts",
+        "author": "Silberschatz",
+        "price": 700,
+        "category": "Education",
+        "available": true
+      }
+    ]
+  }
+}
